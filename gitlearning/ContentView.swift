@@ -16,7 +16,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, zoople how are you")
-            Text("my name is subin and this is  my branch s")
+            Text("my name is subin and this is  my branch v")
                 .font(.title)
                 .foregroundColor(.blue)
 
